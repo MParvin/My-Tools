@@ -1,0 +1,4 @@
+TypeIt
+The most versatile jQuery typing plugin on the planet.|
+https://macarthur.me/typeit/
+--------------------------------------------------------
